@@ -7,6 +7,9 @@ body {
 
 h3 {
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .input {
@@ -22,6 +25,10 @@ select {
 
 .equals {
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-weight: bold;
   font-size: 2rem;
+  
 }
